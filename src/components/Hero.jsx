@@ -19,7 +19,7 @@ const Hero = () => {
 
       <h1 className="head_text">
         Resuma Artigos com <br className="max-md:hidden" />
-        <span className="orange_gradient">OpenAI GPT-4</span>
+        <span className="orange_gradient">OpenAI ChatGPT</span>
       </h1>
       <h2 className="desc">
         Simplifique sua leitura com o Summarizer, um projeto open-source que
